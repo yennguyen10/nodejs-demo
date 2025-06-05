@@ -1,0 +1,26 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "learn-nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yennguyen10/nodejs-demo.git"
+  },
+  "keywords": [
+    "learn nodejs"
+  ],
+  "author": "yen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yennguyen10/nodejs-demo/issues"
+  },
+  "homepage": "https://github.com/yennguyen10/nodejs-demo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
